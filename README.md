@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm IMANE</h1>
 
 <h3 align="center">Aspiring Web Developer | Currently Learning HTML & CSS</h3>
 
@@ -8,7 +8,6 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Electronic Engineering Student exploring the world of Web Development  
 - 🌱 Currently learning **HTML5 & CSS3**  
 - 🎯 My goal is to become a Full-Stack Web Developer  
 - 📚 Step by step, building strong fundamentals before moving to JavaScript  
@@ -37,8 +36,7 @@
 ## 🚀 What I'm Working On
 
 - Small static web pages  
-- Practice landing pages  
-- Improving clean and organized code  
+- Practice landing pages   
 
 ---
 
@@ -51,11 +49,8 @@
 
 ---
 
-## 📫 Connect With Me
-
 - GitHub: YOUR_GITHUB_LINK  
-- LinkedIn: YOUR_LINKEDIN  
-- Email: YOUR_EMAIL  
+- Email: imane.bensaad.2007@gmail.com
 
 ---
 
